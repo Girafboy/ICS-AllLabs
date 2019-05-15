@@ -6,3 +6,5 @@ This is all labs' answer in ICS from SJTU.
 * Lab1 ***Bit-level Ops*** 
 * Lab2 ***Bombing*** 
 * Lab3 ***Attacking*** 
+* Lab8 ***Cache Memories*** 
+* Lab9 ***Unix Shell***
