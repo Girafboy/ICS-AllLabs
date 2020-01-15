@@ -1,6 +1,7 @@
 /* 
  * tsh - A tiny shell program with job control
  * 
+ * < Name: Kang Huquan 	LoginID: ics517021910839 >
  */
 #include <stdio.h>
 #include <stdlib.h>
