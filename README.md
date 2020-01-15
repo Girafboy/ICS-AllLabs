@@ -1,6 +1,7 @@
 # ICS--AllLabs
 -----------
-This is all labs' answer in ICS from SJTU. (expect for lab6 because -_- too *LAZY* for me)   
+This is all labs' answer in ICS from SJTU.   
+(expect for lab6 because -_- too *LAZY* for me)   
 ~~Using for learning not just copying.~~    
 -----------
 * Lab1 ***[Bit-level Ops](/lab1)*** 
